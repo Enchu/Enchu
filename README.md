@@ -1,12 +1,10 @@
-# Привет, меня зовут Алексей 👋
+# Hello, my name is Alexey 👋
 
 ----
 
-### 🧑‍💻: Обо мне:
+### 🧑‍💻: About me:
 
-Я C# разработчик. Начал программировать в колледже на языка c++, python, через 1 год начал писать на C#. Также пробовал и работал с web (html, css, javascript) и swift.
-
-- ⚡: Хочу освоить проффессию и найти работу.
+I'm a C# developer. I started programming in college in C++, Python, and after 1 year I started writing in C#. I also tried and worked with web (html, css, javascript) and swift.
 <!--
 **Enchu/Enchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
