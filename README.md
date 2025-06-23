@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexey</h1>
 <h3 align="center">I am a fullstack developer</h3>
 
-- 🔭 I’m currently working on [Rostelecom](https://github.com/Enchu/rostelecom) 
+- 🔭 I’m currently working on xieffect
 
 - 🌱 I’m currently learning **Next.js**
 
