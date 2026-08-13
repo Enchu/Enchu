@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexey</h1>
 <h3 align="center">I am a fullstack developer</h3>
 
-- 🔭 I’m currently working on sber.tech
-
-- 🌱 I’m currently learning **OpenCV**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
